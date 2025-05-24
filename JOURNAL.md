@@ -1,16 +1,16 @@
 drone build log
 
-4/17-30/25 First early prototype
+4/17-30/25 First early prototype (around 12 hours)
 
 
-5/2/25 Modular redesign + screws
-
-
-
+5/2/25 Modular redesign + screws (2 hours)
 
 
 
-5/4/25: Larger Screws + longer mounts for said screws (create larger space for bearing) 
+
+
+
+5/4/25: Larger Screws + longer mounts for said screws (create larger space for bearing) (3 hours)
 
 
 
